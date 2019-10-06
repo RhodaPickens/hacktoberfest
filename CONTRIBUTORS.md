@@ -1,3 +1,8 @@
+#### Name: [RHODA PICKENS](https://github.com/RhodaPickens)
+ - Place: Texas, USA
+ - Bio: Web Developer, Piano Teacher, Homeschooling Mom and Missionary Wife.
+ - GitHub: [Rhoda Pickens](https://github.com/RhodaPickens)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
